@@ -11,7 +11,7 @@ public class DemoApplication {
 
     @GetMapping("/")
     public String home(){
-        return "hello spring!!!!!!";
+        return "hello spring!!!!";
     }
 
     public static void main(String[] args) {
